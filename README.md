@@ -1,2 +1,2 @@
 # Models
-Aquí se almacenan los esquemas de las tablas a utilizar para Araba Market
+Aquí se almacenan los esquemas de los documentos a utilizar para Araba Market
